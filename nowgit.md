@@ -15,10 +15,10 @@
 
 | Page | URL | Status |
 |------|-----|--------|
-| Landing Page | https://asunnyboy861.github.io/ParkPing/ | ⏳ Pending |
-| Support | https://asunnyboy861.github.io/ParkPing/support.html | ⏳ Pending |
-| Privacy Policy | https://asunnyboy861.github.io/ParkPing/privacy.html | ⏳ Pending |
-| Terms of Use | https://asunnyboy861.github.io/ParkPing/terms.html | ⏳ Pending |
+| Landing Page | https://asunnyboy861.github.io/ParkPing/ | ✅ Active |
+| Support | https://asunnyboy861.github.io/ParkPing/support.html | ✅ Active |
+| Privacy Policy | https://asunnyboy861.github.io/ParkPing/privacy.html | ✅ Active |
+| Terms of Use | https://asunnyboy861.github.io/ParkPing/terms.html | ✅ Active |
 
 ## Repository Structure
 
